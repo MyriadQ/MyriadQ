@@ -3,7 +3,7 @@
 - Full time CS student, part time Cat
 - Certified ヨルシカ fan
 - Very big tech nerd
-# " Currently Learning"
+# "Currently Learning"
 
 - How to not suck at coding
 - How to train a dragon
